@@ -1,0 +1,6 @@
+.vscode/
+.DS_Store
+shapes/shapes
+web-api/cmd/api/api
+*.exe
+.DS_Store
